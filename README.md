@@ -1,8 +1,8 @@
-# Frontend Designer & BNWO Mistress
+# Quality Assurance (QA) & BNWO Mistress
 
-Introduction
+## Introduction
 
-Hello! I'm Emilly, a passionate frontend designer with a knack for creating visually stunning and user-friendly web interfaces. As a BNWO mistress, I bring a unique blend of creativity and technical expertise to every project I undertake.
+Hello! I'm Emilly, a passionate frontend designer with a knack for creating visually stunning and user-friendly web interfaces. 
 
 ## Skills
 
