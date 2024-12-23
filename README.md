@@ -1,4 +1,4 @@
-# Quality Assurance (QA) & BNWO Mistress
+# Quality Assurance (QA) 
 
 ## Introduction
 
